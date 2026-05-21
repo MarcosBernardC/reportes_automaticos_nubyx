@@ -1,0 +1,4 @@
+__pycache__/
+*.pdf
+!Original.pdf
+!reportes_equipos.csv
