@@ -1,0 +1,3 @@
+reportlab
+rich
+PyQt6
