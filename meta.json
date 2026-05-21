@@ -1,0 +1,31 @@
+{
+      "id": "12",
+      "title": "Reportes Automáticos Nubyx",
+      "category": "Automation",
+      "visibility": "PUBLIC",
+      "domain": [
+        "SOFT"
+      ],
+      "status": {
+        "state": "ACTIVE LABS",
+        "label": "Production-Ready"
+      },
+      "environment": {
+        "os": "Fedora 43",
+        "shell": "fish",
+        "last_update": "2026-05-21 // 09:28 PET",
+        "last_commit_log": "09:28 | feat: implementar sistema interactivo de captura de datos y generador de reportes en PDF"
+      },
+      "links": {
+        "ssh": "git@github.com:MarcosBernardC/reportes_automaticos_nubyx.git",
+        "https": "https://github.com/MarcosBernardC/reportes_automaticos_nubyx"
+      },
+      "stack": [
+        "Python 3.14",
+        "ReportLab",
+        "Rich",
+        "CSV",
+        "CLI"
+      ],
+      "description": "Sistema de captura interactiva por terminal para control de calidad técnico y motor automatizado de renderizado de informes homologados en formato PDF."
+    }
